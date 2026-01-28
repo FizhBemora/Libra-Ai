@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Libra AI — Digital Philosopher Pro",
+  "description": "A world-class philosophical AI interface featuring advanced logic analysis, debate modes, grounding, and multimodal reasoning using Gemini 3.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
